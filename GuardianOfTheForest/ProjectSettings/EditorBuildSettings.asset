@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GuardianOfTheForest.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bdb0d9036e03a4846b958ba3490afd85, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bd11beaa7e5104a119cc2e8f698997f5, type: 2}
